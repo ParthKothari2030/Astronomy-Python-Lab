@@ -39,7 +39,7 @@
 
 <h2>5. Time series analysis</h2>
 <div class="content"><p>
-    Assignment 6 is a mini project focused on <strong>time series analysis</strong>, where we utilize the <strong>statsmodels</strong> library, specifically the <strong>ARIMA module</strong>, to make both <strong>COVID-19</strong> and <strong>MJD (Modified Julian Date)</strong> data stationary. The assignment involves applying appropriate transformations to achieve stationarity, followed by <strong>forecasting</strong> future values based on historical data. This exercise helps us understand the practical application of ARIMA models for time series forecasting.
+    Assignment 6 is a mini project focused on <strong>time series analysis</strong>, where we utilize the <strong>statsmodels</strong> library, specifically the <strong>ARIMA module</strong>, to make both <strong>COVID-19</strong> and <strong>MJD</strong> data stationary. The assignment involves applying appropriate transformations to achieve stationarity, followed by <strong>forecasting</strong> future values based on historical data. This exercise helps us understand the practical application of ARIMA models for time series forecasting.
 </p>
 </div>
 </body>

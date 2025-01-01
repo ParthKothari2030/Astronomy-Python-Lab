@@ -3,9 +3,16 @@
 
 <body>
     <h1>Astronomy Lab</h1>
-In Semester 1, I undertook the AA651 course, which provided a comprehensive introduction to **Python programming**. The curriculum covered fundamental concepts, including data types, control structures, and functions, and progressed to intermediate topics such as object-oriented programming, file handling, and basic data analysis. This course built a strong foundation in Python, equipping me with the skills necessary for more advanced programming applications in scientific computing.
-<space></space>
-All the Python codes I developed for the assignments in the AA651 course are provided in this repository, along with the corresponding assignment questions. These include solutions to various problems that were designed to reinforce programming concepts and build practical problem-solving skills.
+<p>
+    In Semester 1, I undertook the <strong>AA651 course</strong>, which provided a comprehensive introduction to <strong>Python programming</strong>. The curriculum covered fundamental concepts, including <strong>data types</strong>, <strong>control structures</strong>, and <strong>functions</strong>, and progressed to intermediate topics such as <strong>object-oriented programming</strong>, <strong>file handling</strong>, and <strong>basic data analysis</strong>. This course built a strong foundation in Python, equipping me with the skills necessary for more advanced programming applications in <strong>scientific computing</strong>.
+</p>
+
+<br>
+
+<p>
+    All the <strong>Python codes</strong> I developed for the assignments in the AA651 course are provided in this repository, along with the corresponding <strong>assignment questions</strong>. These include solutions to various problems that were designed to reinforce programming concepts and build practical <strong>problem-solving skills</strong>.
+</p>
+
 <h2>1. Introduction</h2>
 <div class="content"> aoiuuhfdohao</div>
 
